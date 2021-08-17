@@ -2,23 +2,23 @@
   "name": "modem2",
   "version": "1.0.0",
   "description": "Send and receive messages and make ussd queries using your GSM modems",
-  "homepage": "http://github.com/emilsedgh/modem",
+  "homepage": "https://github.com/devwoojin/modem",
   "main": "./index.js",
   "keywords": [
     "ussd",
     "sms"
   ],
   "author": {
-    "name": "Emil Sedgh",
-    "email": "emilsedgh@kde.org",
-    "url": "http://emilsedgh.info/"
+    "name": "woojin",
+    "email": "dev@woojinnet.net",
+    "url": "http://www.woojinnet.net/"
   },
   "bugs": {
-    "url": "https://github.com/emilsedgh/modem/issues"
+    "url": "https://github.com/devwoojin/modem/pulls"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/emilsedgh/modem.git"
+    "url": "https://github.com/devwoojin/modem.git"
   },
   "dependencies" : {
     "serialport" : ">= 1.1.1",
