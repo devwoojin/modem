@@ -18,13 +18,13 @@ It supports:
 Installation
 ------------
 ```bash
-npm install modem
+npm install modem2
 ```
 
 Instantiate
 -----------
 ```javascript
-var modem = require('modem').Modem()
+var modem = require('modem2').Modem()
 ```
 
 Open modem
